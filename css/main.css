@@ -1003,6 +1003,10 @@ p {
   background-color: #626262;
 }
 
+.map__body iframe{
+   width: 100%;
+}
+
 .menu__list {
   display: flex;
   justify-content: space-between;
